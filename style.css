@@ -1,0 +1,13 @@
+.aaa {
+	background-color: #0000ff;
+}
+#id1 {
+	color: #ff0000;
+}
+#id2 {
+	color: #00ff00;
+}
+
+table tr > td {
+	color: yellow;
+}
